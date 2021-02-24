@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2364
+D OTP EPROM 64 KiBit
+K OTP EPROM 64KiBit
+F https://myoldcomputer.nl/Files/Datasheet/2364-Commodore.pdf
+$ENDCMP
+#
+$CMP AT28HC64B
+D OTP EPROM 64 KiBit
+K OTP EPROM 64KiBit
+F https://ww1.microchip.com/downloads/en/DeviceDoc/doc0274.pdf
+$ENDCMP
+#
+#End Doc Library

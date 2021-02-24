@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ROMAdapter)(type Legacy)(uri ${KIPRJMOD}/romadapter.lib)(options "")(descr ""))
+)
